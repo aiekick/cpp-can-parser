@@ -5,7 +5,7 @@
 #include <iostream>
 
 #include "Tokenizer.h"
-#include "CANDatabase.h"
+#include <models/CANDatabase.h>
 
 namespace CppCAN {
 namespace parser {
